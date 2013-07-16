@@ -1,5 +1,4 @@
 import os
-import re
 import urllib2
 import urllib
 from urlparse import urlparse
