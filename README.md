@@ -4,7 +4,8 @@ mangapy
 Downloads manga from various sites[I added only one site]
 Modules Required:
 
-1.Beautiful Soup 4<\n>
+1.Beautiful Soup 4
+
 2.easygui
 
 Usage:
